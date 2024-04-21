@@ -1,1 +1,2 @@
-# react--tic-tac-toe
+# Tic-tac-toe Mini Game
+
